@@ -1,0 +1,13 @@
+{
+    "name": "prinsfrank/arithmetic-operations",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PrinsFrank\\ArithmeticOperations\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
