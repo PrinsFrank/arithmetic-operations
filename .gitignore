@@ -4,3 +4,6 @@
 
 #Jetbrains
 /.idea
+
+#CSFixer
+/.php-cs-fixer.cache
