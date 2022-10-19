@@ -1,5 +1,6 @@
 {
     "name": "prinsfrank/arithmetic-operations",
+    "description": "Interface for arithmetic operations implementation (addition, subtraction, power, dividing, etc...)",
     "type": "library",
     "license": "MIT",
     "autoload": {
